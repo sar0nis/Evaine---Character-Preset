@@ -1,7 +1,7 @@
 — READ ME —
 
 INSTALLATION
-1. Download the "GtS - Evaine" .json file.
+1. Download the Archive and extract the GtS - Evaine.json file.
 2. Place it in:
    Skyrim Special Edition\Data\SKSE\Plugins\CharGen\Presets
 
