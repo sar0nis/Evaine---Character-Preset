@@ -1,0 +1,411 @@
+{
+   "actor" : {
+      "hairColor" : 5922665,
+      "headTexture" : "Skyrim.esm|0F2057",
+      "weight" : 1.399969577789307
+   },
+   "faceTextures" : [
+      {
+         "index" : 0,
+         "texture" : "Actors\\Character\\Female\\FemaleHead.dds"
+      },
+      {
+         "index" : 1,
+         "texture" : "Actors\\Character\\BretonFemale\\FemaleHead_msn.dds"
+      },
+      {
+         "index" : 2,
+         "texture" : "Actors\\Character\\Female\\FemaleHead_sk.dds"
+      },
+      {
+         "index" : 3,
+         "texture" : "Actors\\Character\\Female\\FemaleHeadDetail_Rough.dds"
+      },
+      {
+         "index" : 7,
+         "texture" : "Actors\\Character\\Female\\FemaleHead_S.dds"
+      }
+   ],
+   "headParts" : [
+      {
+         "formId" : 333345,
+         "formIdentifier" : "Skyrim.esm|051621",
+         "type" : 0
+      },
+      {
+         "formId" : 333071,
+         "formIdentifier" : "Skyrim.esm|05150F",
+         "type" : 1
+      },
+      {
+         "formId" : 967090,
+         "formIdentifier" : "Skyrim.esm|0EC1B2",
+         "type" : 2
+      },
+      {
+         "formId" : 4267346024,
+         "formIdentifier" : "evgmodularSMPhair.esp|5A8868",
+         "type" : 3
+      },
+      {
+         "formId" : 4265797757,
+         "formIdentifier" : "Brows.esp|42E87D",
+         "type" : 8
+      },
+      {
+         "formId" : 4267685888,
+         "formIdentifier" : "KarliahEyesPlayable.esp|5FB800",
+         "type" : 9
+      }
+   ],
+   "modNames" : [
+      "Brows.esp",
+      "KarliahEyesPlayable.esp",
+      "Skyrim.esm",
+      "evgmodularSMPhair.esp"
+   ],
+   "mods" : [
+      {
+         "index" : 0,
+         "name" : "Skyrim.esm"
+      }
+   ],
+   "morphs" : {
+      "custom" : [
+         {
+            "name" : "NSK_CheekShape",
+            "value" : 0.07000000029802322
+         },
+         {
+            "name" : "CME_NoseHoleSlope",
+            "value" : -0.1899999976158142
+         },
+         {
+            "name" : "CME_ChinWidth",
+            "value" : -0.03999999910593033
+         },
+         {
+            "name" : "RANs_Age",
+            "value" : -0.009999999776482582
+         },
+         {
+            "name" : "CME_CheeksWidth",
+            "value" : -0.1599999964237213
+         },
+         {
+            "name" : "CME_NoseLength",
+            "value" : 0.119999997317791
+         },
+         {
+            "name" : "ECE_EarSize",
+            "value" : -0.1299999952316284
+         },
+         {
+            "name" : "CME_ChinUpDown",
+            "value" : -0.1899999976158142
+         },
+         {
+            "name" : "CME_NoseSellionWidth",
+            "value" : -0.2599999904632568
+         },
+         {
+            "name" : "CME_NoseSellionUpDown",
+            "value" : 0.3599999845027924
+         },
+         {
+            "name" : "ECE_NoseBridgeWidth",
+            "value" : -0.3400000035762787
+         },
+         {
+            "name" : "ECE_NoseTipWidth",
+            "value" : -0.2099999934434891
+         },
+         {
+            "name" : "EFM_Chin_Shape",
+            "value" : 0.009999999776482582
+         },
+         {
+            "name" : "EFM_Chin_Depth",
+            "value" : 1.709999918937683
+         },
+         {
+            "name" : "NSK_NoseTilt",
+            "value" : 0.09999999403953552
+         },
+         {
+            "name" : "RANs_Weight",
+            "value" : 0.08999999612569809
+         },
+         {
+            "name" : "RANs_HeadShape",
+            "value" : 1
+         },
+         {
+            "name" : "NSK_LipsOpen",
+            "value" : 0.07999999821186066
+         },
+         {
+            "name" : "CME_CheeksBlow",
+            "value" : -0.550000011920929
+         },
+         {
+            "name" : "CME_CheeksBoneInOut",
+            "value" : -0.8700000047683716
+         },
+         {
+            "name" : "CME_Breton",
+            "value" : 0.009999999776482582
+         },
+         {
+            "name" : "EFM_Cheek_Shape",
+            "value" : 0.009999999776482582
+         },
+         {
+            "name" : "CME_EyeballSize",
+            "value" : -0.009999999776482582
+         },
+         {
+            "name" : "CME_EyesSize",
+            "value" : -0.009999999776482582
+         },
+         {
+            "name" : "CME_EyeballInOut",
+            "value" : 0.009999999776482582
+         },
+         {
+            "name" : "NSK_BrowAngle",
+            "value" : -0.4599999785423279
+         },
+         {
+            "name" : "EFM_Cheek_Depth",
+            "value" : 0.009999999776482582
+         },
+         {
+            "name" : "EFM_Chin_Width",
+            "value" : 0.07000000029802322
+         }
+      ],
+      "default" : {
+         "morphs" : [
+            0.9000000357627869,
+            0,
+            -0.2000000029802322,
+            -0.300000011920929,
+            0,
+            0.300000011920929,
+            -0.1000000014901161,
+            0.5,
+            -0.2000000029802322,
+            -0.300000011920929,
+            -0.800000011920929,
+            1,
+            0.4000000059604645,
+            -0.1000000014901161,
+            0.5,
+            0.2000000029802322,
+            0.5199999809265137,
+            -0.5,
+            3.402823466385289e+38
+         ],
+         "presets" : [ 14, 4294967295, 3, 17 ]
+      },
+      "sculpt" : null,
+      "sculptDivisor" : 10000
+   },
+   "overrides" : [
+      {
+         "node" : "Body [Ovl5]",
+         "values" : [
+            {
+               "data" : "Actors\\Character\\Overlays\\Default.dds",
+               "index" : 0,
+               "key" : 9,
+               "type" : 2
+            }
+         ]
+      }
+   ],
+   "tintInfo" : [
+      {
+         "color" : 4291743180,
+         "index" : 0,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\SkinTone.dds"
+      },
+      {
+         "color" : 4278190080,
+         "index" : 1,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleUpperEyeSocket.dds"
+      },
+      {
+         "color" : 4278190080,
+         "index" : 2,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleLowerEyeSocket.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 3,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHead_Cheeks.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 4,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHead_Cheeks2.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 5,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHead_FrownLines.dds"
+      },
+      {
+         "color" : 2585266744,
+         "index" : 6,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadBreton_Lips.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 7,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadHuman_Nose.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 8,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadHuman_ForeHead.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 9,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadHuman_Chin.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 10,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadHuman_Neck.dds"
+      },
+      {
+         "color" : 625085195,
+         "index" : 11,
+         "texture" : "Actors\\Character\\Overlays\\FMS\\Contours and Highlights\\Contours 3.dds"
+      },
+      {
+         "color" : 2505910569,
+         "index" : 12,
+         "texture" : "Actors\\Character\\Overlays\\FMS\\Blush\\Blush Cheeks 3.dds"
+      },
+      {
+         "color" : 4026531840,
+         "index" : 13,
+         "texture" : "Actors\\Character\\Overlays\\FMS\\EyeShadow\\Lid 2.dds"
+      },
+      {
+         "color" : 2505910569,
+         "index" : 14,
+         "texture" : "Actors\\Character\\Overlays\\FMS\\Contours and Highlights\\NoseTip 1.dds"
+      },
+      {
+         "color" : 6039592,
+         "index" : 15,
+         "texture" : "Actors\\Character\\Overlays\\FMS\\Contours and Highlights\\Forehead 1.dds"
+      },
+      {
+         "color" : 3873306,
+         "index" : 16,
+         "texture" : "Actors\\Character\\Overlays\\SFO\\Face\\Face Freckles Neck 1 M.dds"
+      },
+      {
+         "color" : 3549224,
+         "index" : 17,
+         "texture" : "Actors\\Character\\Overlays\\SFO\\Face\\Face Mole Lip 1 M.dds"
+      },
+      {
+         "color" : 1195708929,
+         "index" : 18,
+         "texture" : "Actors\\Character\\Overlays\\FMS\\Lips\\Lips 2.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 19,
+         "texture" : "Actors\\Character\\Overlays\\FMS\\Contours and Highlights\\Highlights 1.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 20,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadWarPaint_10.dds"
+      },
+      {
+         "color" : 3424465492,
+         "index" : 21,
+         "texture" : "Actors\\Character\\Overlays\\Lupine Bodypaint\\Yyvengar\\Yyvengar Auricha Head Elite F M.dds"
+      },
+      {
+         "color" : 3424465492,
+         "index" : 22,
+         "texture" : "Actors\\Character\\Overlays\\Lupine Bodypaint\\Yyvengar\\Yyvengar Scourge Slayer Head F M.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 23,
+         "texture" : "Actors\\EmpyreanCS_F_1_N.dds"
+      },
+      {
+         "color" : 4278190080,
+         "index" : 24,
+         "texture" : "actors\\character\\Overlays\\Koralina\\Eyeshadows\\koralina_eyeshadows_04.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 25,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadBretonWarPaint_02.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 26,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadForswornTattoo_01.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 27,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadForswornTattoo_02.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 28,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadForswornTattoo_03.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 29,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadForswornTattoo_04.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 30,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadBothiahTattoo_01.dds"
+      },
+      {
+         "color" : 4278190080,
+         "index" : 31,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleNordEyeLinerStyle_01.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 32,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadDirt_01.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 33,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadDirt_02.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 34,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadDirt_03.dds"
+      }
+   ],
+   "version" : {
+      "formatVersion" : 3,
+      "runtimeVersion" : 17039392,
+      "signature" : 1163086675,
+      "skseVersion" : 33685600
+   }
+}
